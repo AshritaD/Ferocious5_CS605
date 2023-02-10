@@ -7,7 +7,7 @@ This is a project done by our team Ferocious5 and our goal is to develop an anal
 -	Requirements
 -	Maintainers
 ## DESCRIPTION 
-With the present data, we could analyze and predict the patterns of COVID-19, how it spreads and how it affects other factors and measures we can take. Using various enrichment datasets, we could study how COVID-19. We will present our findings in a report and in code. Here we are trying to provide insights on how to respond to the spread of COVID with the help of this project.
+With the present data, we could analyze and predict the patterns of COVID-19, how it spreads and how it affects other factors and measures we can take. Using various enrichment datasets, we could study how COVID-19 affects. We will present our findings in a report and in code. Here we are trying to provide insights on how to respond to the spread of COVID with the help of this project.
 ## DATA SOURCE
 -	USA Facts
 -	United States Census Bureau 
