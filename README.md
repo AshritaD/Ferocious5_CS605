@@ -1,4 +1,4 @@
-# COVID DATA ANALYSIS 
+# Navigating the Contours of Contagion: An Analytical Framework for Understanding COVID-19 Dynamics and Patterns 
 This is a project done by our team Ferocious5 and our goal is to develop an analytical framework to study the given data and understand the patterns of COVID-19’s effect and spread.
 ## TABLE OF CONTENTS
 -	Description
